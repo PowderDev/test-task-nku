@@ -2,5 +2,5 @@
 ```
   npm install
   npm run build
-  npm run start
+  npm run start #http://localhost:4000
 ```
